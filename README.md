@@ -12,6 +12,25 @@ Links guide for beginners and professionals Front End and Full Stack developers.
 - [ Flexbox Froggy: ](https://www.flexboxfroggy.com/) Front-end challenge focused on the flexbox property.
 - [ Flexbox Defense: ](http://www.flexboxdefense.com/) Challenge with games focused on the flexbox property.
 
+## For Reference and Inspiration
+
+- [ Dribbble: ](https://www.dribbble.com/) It works as a platform for graphic design, web design, illustration, and other creative areas.
+- [ Behance: ](https://www.behance.net/) Behance is a network of websites and services specializing in self-promotion and online portfolio websites.
+- [ Pinterest: ](https://www.pinterest.com/) It resembles an inspiration board, where users can share and manage thematic images.
+- [ Awwwards: ](https://www.awwwards.com/) Aims to recognize and promote the best in innovative web design.
+- [ UIverse: ](https://www.uiverse.io/) Open-Source UI elements for any project.
+- [ SaasLandingpage: ](https://www.saaslandingpage.com/) Created by world-class SaaS companies to get ideas and inspiration for your next design project.
+
+## Colors and Reference
+
+- [ Adobe Color ](https://www.color.adobe.com/pt/create/color-wheel)
+- [ Image color ](https://www.imagecolorpicker.com/color-code)
+- [ Materialui ](https://www.materialui.co/colors/)
+- [ Home host ](https://www.homehost.com.br/blog/tutoriais/tabela-de-cores-html/)
+- [ site112 ](https://www.site112.com/misturador-cores)
+- [ Coolors ](https://www.coolors.co/palettes/trending)
+- [ Colourcode ](https://www.toptal.com/designers/colourcode)
+
 ## Software UX/UI
 
 - [ Figma ](https://www.figma.com/)
@@ -42,3 +61,16 @@ Links guide for beginners and professionals Front End and Full Stack developers.
 - [ Bootstrap icons ](https://www.icons.getbootstrap.com/)
 - [ Feather ](https://www.feathericons.com/)
 - [ Piliapp ](https://www.pt.piliapp.com/label/symbols/)
+
+## Project Management Software
+
+- [ Notion ](https://www.notion.so/)
+- [ Trello ](https://www.trello.com/)
+- [ Funnelytics ](https://www.funnelytics.io/)
+- [ MindMeister ](https://www.mindmeister.com/pt)
+
+## Website Compression Images
+
+- [ TinyPNG ](https://www.tinypng.com/)
+- [ ImageRecycle ](https://www.imagerecycle.com/)
+- [ IMG2GO ](https://www.img2go.com/compress-image)
